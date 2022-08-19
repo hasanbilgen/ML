@@ -1,9 +1,16 @@
-﻿type,longitude,latitude,demand_a,demand_b,demand_c,demand_d,max_cost
-1,40,-70,10,10,0,0,80000
-2,35,-74,0,0,10,10,90000
-3,55,-65,10,10,10,10,100000
-1,50,-70,10,5,0,0,120000
-2,60,-68,10,5,0,0,80000
-3,55,-68,5,5,5,5,60000
-1,40,-80,4,4,4,4,70000
-2,45,-70,3,3,3,2,60000
+﻿Bidder,longitude,latitude,coeff_SEPM_O,coeff_SEPM_T,coeff_OSW_O,coeff_OSW_T,coeff_HW_O,coeff_HW_T,coeff_ASPEN_O,coeff_ASPEN_T,volume,max_cost
+" ""Rébec inc.""                                  ",40,-70,10,10,0,0,10,10,0,0,20000,80000
+" ""PF Résolu Canada inc.""                       ",35,-74,0,0,10,10,0,0,10,10,20000,90000
+" ""Rayonier A.M. Canada S.E.N.C.""               ",55,-65,10,10,10,10,10,10,10,10,20000,100000
+" ""Boisaco inc.""                                ",50,-70,10,5,0,0,10,5,0,0,20000,120000
+" ""Corporation Eacom Timber""                    ",60,-68,10,5,0,0,10,5,0,0,20000,80000
+" ""Barrette",55,-68,5,5,5,5,5,5,5,5,20000,60000
+" ""Matériaux Blanchet inc.""                     ",40,-80,4,4,4,4,4,4,4,4,20000,70000
+" ""Bois Granval G.D.S. inc.""                    ",45,-70,3,3,3,2,3,3,3,2,20000,80000
+" ""Groupe Lebel inc.""                           ",40,-70,10,10,0,0,10,10,0,0,20000,90000
+" ""Forex inc.""                                  ",35,-74,0,0,10,10,0,0,10,10,20000,100000
+" ""Groupement forestier de Témiscouata inc.""    ",55,-65,10,10,10,10,10,10,10,10,20000,120000
+" ""Accès Forêt inc.""                            ",50,-70,10,5,0,0,10,5,0,0,20000,80000
+" ""Coopérative forestière du Haut Saint",60,-68,10,5,0,0,10,5,0,0,20000,60000
+" ""Forex Langlois inc.""                         ",55,-68,5,5,5,5,5,5,5,5,20000,70000
+" ""Scierie Landrienne""",40,-80,4,4,4,4,4,4,4,4,20000,60000
