@@ -1,4 +1,4 @@
-"Latitude","Longitude","Superficie","Volumeobligatoiretotalm","SEPM_obligatoire_oeuvre","SEPM_obligatoire_trituration","OSW_obligatoire_oeuvre","OSW_obligatoire_trituration","HW_obligatoire_oeuvre","HW_obligatoire_trituration","Prixdevente"
+"Latitude","Longitude","Superficie","Volumeobligatoiretotalm","vol_SEPM_O", "vol_SEPM_T", "vol_OSW_O", "vol_OSW_T", "vol_HW_O", "vol_HW_T,"Prixdevente"
 46.698472,-73.29594,138,15750,2150,2500,2650,3700,1400,3350,73050
 46.68776,-73.286375,158,13950,2050,2400,3400,3000,850,2250,90475
 45.371806,-71.148624,161,8850,2750,100,0,1050,1350,3600,104055
